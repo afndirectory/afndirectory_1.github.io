@@ -1,7 +1,7 @@
 body{
  
 }
-.button{
+button.btn{
   text-align: center;
   padding: 15px 45px;
   font-size: 64px;
