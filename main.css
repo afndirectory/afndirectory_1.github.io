@@ -3,7 +3,10 @@ body{
 }
 .button{
   text-align: center;
- padding: 15px 45px;
- font-size: 64px;
- 
+  padding: 15px 45px;
+  font-size: 64px;
+}
+
+.container{
+  top: 50%
 }
