@@ -1,5 +1,11 @@
-import 'bootstrap/dist/css/bootstrap.css'
+#btn-margin{
+  margin: 10px;
+}
 
-body{
- 
+.btn{
+  width: 200px;
+}
+
+#header{
+  padding-bottom: 64px;
 }
