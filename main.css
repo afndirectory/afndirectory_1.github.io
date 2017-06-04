@@ -6,6 +6,7 @@
   width: 200px;
 }
 
-#header{
-  padding-bottom: 64px;
+#btn-padding{
+  position: relative;
+  top: 50%;
 }
